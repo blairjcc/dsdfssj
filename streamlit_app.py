@@ -52,7 +52,7 @@ st.markdown(link, unsafe_allow_html=True)
 
 st.subheader('Side Bar')
 with st.sidebar:
-	st.radio('Select one:', [
+	st.radio('Select one:', [1, 2])
 
 
 

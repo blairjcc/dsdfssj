@@ -56,6 +56,3 @@ with st.sidebar:
 	st.radio('Select one:', [1, 2])
 
 
-
-st.subheader('Map of all pickups at %s:00' % hour_to_filter)
-

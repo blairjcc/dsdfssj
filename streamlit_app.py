@@ -45,7 +45,7 @@ st.subheader('My sub')
 st.code('for i in range(8): foo()')
 
 st.subheader('Media Items')
-st.image('./doggo-unsplash.jpp')
+st.image('./doggo-unsplash.jpg')
 st.audio(data)
 st.video(data)
 link = '[GitHub](http://github.com)'

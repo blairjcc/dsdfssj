@@ -4,6 +4,7 @@ import numpy as np
 
 def foo():
 	print('bar')
+data = './data.txt'
 
 st.set_page_config(layout='wide')
 st.title('Streamlit Test App')
